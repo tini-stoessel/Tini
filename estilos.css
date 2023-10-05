@@ -1,0 +1,24 @@
+img {
+
+float: right;
+
+}
+
+h1 {
+
+
+    background-color: lightpink;
+}
+
+h4 { 
+    float: left;
+}
+
+h5 {
+float: left;
+
+}
+
+table, td { 
+    border-collapse: collapse;
+border: 5px solid rgb(255, 126, 148)}
